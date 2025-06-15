@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/celebal_week_2_task/static/css/main.38ffecac.css",
+    "main.js": "/celebal_week_2_task/static/js/main.077db777.js",
+    "index.html": "/celebal_week_2_task/index.html",
+    "main.38ffecac.css.map": "/celebal_week_2_task/static/css/main.38ffecac.css.map",
+    "main.077db777.js.map": "/celebal_week_2_task/static/js/main.077db777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ffecac.css",
+    "static/js/main.077db777.js"
+  ]
+}
