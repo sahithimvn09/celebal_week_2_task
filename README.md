@@ -9,7 +9,6 @@ This is a **React To-Do List** application that allows users to:
 
 The project validates task input, dynamically displays tasks, and ensures a user-friendly interface.
 ---
-## Live Demo
 The Application is at [Live_Demo](https://sahithimvn09.github.io/celebal_week_2_task/)
 ---
 
